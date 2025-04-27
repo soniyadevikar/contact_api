@@ -11,7 +11,7 @@ const app = express();
 
 // For Production
 app.use(cors({
-    origin: 'https://soniyadevikar.github.io/',
+    origin: 'https://soniyadevikar.github.io',
 }));
 
 app.use(express.json());
