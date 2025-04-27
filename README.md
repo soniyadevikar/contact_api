@@ -79,12 +79,10 @@ Update your React frontend to use this URL when making API requests.
 ## 🔐 Security Best Practices
 - Never push `.env` file to GitHub.
 - Always use `App Passwords` for Gmail SMTP.
-- Add `rate-limiting` and `reCAPTCHA` in production to prevent spam.
-- Optionally shift to a custom domain email (`noreply@yourdomain.com`) for production.
 
 ## 👨‍💻 Author
-- **Your Name**
-- [Your GitHub Profile Link]
+- **Soniya Devikar**
+- [https://github.com/soniyadevikar]
 
 ## 📜 License
 This project is licensed under the MIT License.
